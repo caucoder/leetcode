@@ -1,2 +1,3 @@
 # leetcode
-没事刷一刷leetcode
+
+- [27-remove-element](code\27-remove-element\Solution.java)
